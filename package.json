@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/mugarate12/webpack-babel-config/issues"
   },
-  "homepage": "https://github.com/mugarate12/webpack-babel-config#readme",
+  "homepage": ".",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
