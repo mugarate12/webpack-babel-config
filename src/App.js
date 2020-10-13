@@ -5,8 +5,7 @@ import './App.css'
 const App = () => {
   return (
     <>
-      <h1>Olá</h1>
-      <h1>Opa</h1>
+      <h1>Olá, sou uma página de demonstração!</h1>
     </>
   )
 }
